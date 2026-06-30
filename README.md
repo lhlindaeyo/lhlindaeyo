@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="interest_map.svg" width="380" alt="interest map"/>
+<img src="interest_map.svg" width="420" alt="interest map"/>
 
 <br/>
 
@@ -26,6 +26,6 @@
 
 <br/><br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lhlindaeyo&show_icons=true&theme=default&hide_border=true&title_color=1d4ed8&icon_color=1d4ed8)
+<img src="https://github-readme-stats.vercel.app/api?username=lhlindaeyo&show_icons=true&theme=default&hide_border=true&title_color=1d4ed8&icon_color=1d4ed8" alt="GitHub stats"/>
 
 </div>
