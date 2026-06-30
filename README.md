@@ -24,8 +24,4 @@
   <img src="https://img.shields.io/badge/DAILY_QUANT-111827?style=for-the-badge&logo=chartdotjs&logoColor=white" height="36"/>
 </a>
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=lhlindaeyo&show_icons=true&theme=default&hide_border=true&title_color=1d4ed8&icon_color=1d4ed8" alt="GitHub stats"/>
-
 </div>
